@@ -1,0 +1,2 @@
+# PDFComparator
+Comparador de PDFs
